@@ -1,0 +1,28 @@
+html {
+	font-family:comic sans ms;
+	background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+table, th, td {
+  border: 1px solid black;
+}
+.display {
+	border:1px solid black;
+	border-radius:10px;
+	width:400px;
+	background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+}
+#back {
+	width:100px;
+	background-color:red;
+	color:white;
+	padding-left:10px;
+	padding-right:10px;
+	padding:3px;
+	border-radius:10px;
+	border:1px solid black;
+	box-shadow:0 5px #999;
+}
+#back:active {
+	box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}

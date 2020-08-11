@@ -1,0 +1,31 @@
+body {
+  background: url("StudentImg.jpg"); 
+  background-size: cover;
+}
+.box {
+	border:1px solid black;
+	border-radius:10px;
+	width:300px;
+	background-color:white;
+	padding-bottom:10px;
+	
+}
+table {
+	font-family:comic sans ms;
+}
+#login { 
+	padding:7px;
+	width:150px;
+	background-color:cornflowerblue;
+	color:white;
+	border-radius:20px;
+	border:1px solid black;
+}
+#reset { 
+	padding:7px;
+	width:150px;
+	background-color:cornflowerblue;
+	color:white;
+	border-radius:20px;
+	border:1px solid black;
+}
